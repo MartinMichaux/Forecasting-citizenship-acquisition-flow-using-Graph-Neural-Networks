@@ -1,4 +1,4 @@
-# ML for Graph Data Project
+# Forecasting citizenship acquisition flow using Graph Neural Networks
 
 ### Getting started
 After cloning the project, you need to perform the following steps to reproduce the results:
