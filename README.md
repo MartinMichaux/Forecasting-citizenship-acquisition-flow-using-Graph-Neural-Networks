@@ -1,5 +1,7 @@
 # Forecasting citizenship acquisition flow using Graph Neural Networks
 
+Please read the readme.pdf file, it is the paper related to this project.
+
 ### Getting started
 After cloning the project, you need to perform the following steps to reproduce the results:
 1. Create a virtual environment (```venv```) and setup Python interpreter, we have tested the code with Python 3.9.
